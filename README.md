@@ -1,1 +1,1 @@
-# Kaggle-dataset
+# This repository will contain .ipynb files for data analysis of a variety of kaggle datasets. The purpose of this repository is to practice EDA, data cleaning, graphing, plotting, statistical analysis, and data storytelling and communication for the sake of learning.
